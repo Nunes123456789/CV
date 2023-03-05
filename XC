@@ -1,0 +1,6 @@
+#EXTM3U
+
+##### ESPORTES #####
+#EXTINF:-1 tvg- logo"" group-title="ESPORTES", SPORTV http://tv.urllista.com/live/RicardoEcoparck/h5t9udxndi5/104085.ts
+
+#EXTINF:-1 tvg- logo"" group-title="TV ABERTA",GLOBO PRINCIPAL http://198.199.83.184:8081/aplicacao/recordeuropa/playlist.m3u8
